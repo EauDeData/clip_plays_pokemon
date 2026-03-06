@@ -1,0 +1,97 @@
+{
+    "A": [
+        "press the A button",
+        "tap A",
+        "hit the A button",
+        "confirm with A",
+        "accept with A",
+        "select using A",
+        "advance with A",
+        "use the A button",
+        "interact with A",
+        "press A to continue",
+        "choose the option with A",
+        "activate with A",
+        "attack with A",
+        "talk using A"
+    ],
+
+    "B": [
+        "press the B button",
+        "tap B",
+        "hit the B button",
+        "cancel with B",
+        "go back with B",
+        "exit with B",
+        "close using B",
+        "decline with B",
+        "press B to return",
+        "back out with B",
+        "undo with B"
+    ],
+
+    "select": [
+        "press select",
+        "tap select",
+        "hit the select button",
+        "use select",
+        "open the select menu",
+        "activate select",
+        "press select now",
+        "toggle with select"
+    ],
+
+    "^": [
+        "go up",
+        "move up",
+        "walk up",
+        "go north",
+        "head upward",
+        "move the character up",
+        "press up",
+        "step up",
+        "climb up",
+        "navigate upward",
+        "move one tile up"
+    ],
+
+    "v": [
+        "go down",
+        "move down",
+        "walk down",
+        "go south",
+        "head downward",
+        "move the character down",
+        "press down",
+        "step down",
+        "descend",
+        "navigate downward",
+        "move one tile down"
+    ],
+
+    ">": [
+        "go right",
+        "move right",
+        "walk right",
+        "head east",
+        "press right",
+        "step to the right",
+        "move the character right",
+        "go one tile right",
+        "navigate right",
+        "shift right"
+    ],
+
+    "<": [
+        "go left",
+        "move left",
+        "walk left",
+        "head west",
+        "press left",
+        "step to the left",
+        "move the character left",
+        "go one tile left",
+        "navigate left",
+        "shift left"
+    ]
+}
